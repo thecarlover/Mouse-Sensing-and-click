@@ -24,7 +24,7 @@ The Mouse Click by Hand project allows users to control mouse clicks by utilizin
 
 2. Requirements
    ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
 3. Run
    ```bash
    python mousecontrol.py
